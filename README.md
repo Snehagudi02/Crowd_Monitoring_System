@@ -44,7 +44,7 @@ A professional-grade, real-time intelligence platform that combines **Computer V
 ## 📁 Project Structure
 
 ```bash
-crowd_monitoring_system/
+crowd_Predictor_Framework/
 ├── backend/                # FastAPI Application
 │   ├── app/                # Core API logic (Routes, Services, Models)
 │   └── requirements.txt    # Backend dependencies
