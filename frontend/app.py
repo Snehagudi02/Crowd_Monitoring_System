@@ -197,8 +197,8 @@ with c1:
     graph_ph = st.empty()
     
 st.markdown("<div class='section-title'><span class='section-badge'>Team 2</span> Video detection — simulated frames</div>", unsafe_allow_html=True)
-    v1, v2 = st.columns(2)
-    v3, v4 = st.columns(2)
+v1, v2 = st.columns(2)
+    
     vid_a = v1.empty()
     vid_b = v2.empty()
     vid_c = v3.empty()
