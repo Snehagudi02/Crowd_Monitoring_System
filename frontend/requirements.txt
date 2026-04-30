@@ -2,5 +2,4 @@ opencv-python-headless
 streamlit
 requests
 Pillow
-opencv-python-headless
 plotly
