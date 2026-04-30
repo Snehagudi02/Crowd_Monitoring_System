@@ -21,3 +21,4 @@ scikit-learn>=1.0.0
 # Database Connection
 SQLAlchemy
 psycopg2-binary
+Dockerfile
