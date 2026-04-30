@@ -1,1 +1,24 @@
+# Tell pip to find the smaller CPU-only versions of PyTorch first
+--extra-index-url https://download.pytorch.org/whl/cpu
 
+# Web Framework & Server
+fastapi
+uvicorn
+python-multipart
+
+# Machine Learning & Computer Vision
+torch==2.0.0
+ultralytics
+opencv-python-headless
+
+# Deep Learning & Time Series
+tensorflow==2.13.0
+prophet==1.1.4
+pandas>=1.3.0
+numpy>=1.21.0
+scikit-learn>=1.0.0
+
+# Database Connection
+SQLAlchemy
+psycopg2-binary
+Dockerfile
